@@ -46,16 +46,16 @@ GOOD LUCK TO US!
 
 
 
-
-
 ## Projects
 - https://devopscube.com/devops-projects/
 - 
 - [Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/aws/)
 
-## Certifications
 
+
+## Certifications
 - [AWS Cloud Practioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+- [Professional Cloud DevOps Engineer](https://cloud.google.com/learn/certification/cloud-devops-engineer)
 - [Certified Kubernetes Administrator](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
 - [Certified Kubernetes Application Developer](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/)
 - [Kubernetes and Cloud Native Associate](https://training.linuxfoundation.org/certification/kubernetes-cloud-native-associate/)
