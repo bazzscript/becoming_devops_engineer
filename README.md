@@ -6,7 +6,7 @@ A little inspiration from (https://github.com/hacktivist123/DevOps-Learning-Plan
 PS:
 - Already have Multiple Years (2+) of Professional Backend Engineering Experience, so I already had substantial technical foundations, before I started (November 2023).
 - Started my own DevOps journey (December 2023)
-- I will add resources I find useful
+- I will add resources I find useful as a go along
 - I am writing some articles and probably making some videos along the way, adding links as I make them
 - ⏳ Means I am currently doing this. ✅ Means I have completed this.
 
@@ -36,10 +36,12 @@ GOOD LUCK TO US!
 
 
 - Docker
-  
-- DevOps
+ 
 
 - Kubernetes
+
+
+- DevOps
 
 
 
