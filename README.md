@@ -12,7 +12,7 @@ PS:
 
 
 ## Motto
-My Twitter Bio 
+My Twitter Header (https://twitter.com/bazzscript)
 
 ## Goal
 - Become a DevOps Engineer or SRE(Site Reliability Engineer)
