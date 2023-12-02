@@ -1,6 +1,6 @@
 ## DevOps Learning Plan 2024
 
-This is my DevOps learning plan/guide for the year 2024, it consists of both paid courses and free courses, pick as you wish and create your own learning plan.
+This is my DevOps learning plan/guide for the year 2024, it consists of both paid courses and mostly free courses, pick as you wish and create your learning plan from this.
 A little inspiration from (https://github.com/hacktivist123/DevOps-Learning-Plan/), 
 
 PS:
