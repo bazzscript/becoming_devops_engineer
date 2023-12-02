@@ -4,7 +4,7 @@ This is my DevOps learning plan/guide for the year 2024, it consists of both pai
 A little inspiration from (https://github.com/hacktivist123/DevOps-Learning-Plan/), 
 
 PS:
-- Already have Multiple Years (2+) of Professional Backend Engineering Experience, so I already had substantial technical foundations, before I started (November 2023).
+- Already have Multiple Years of Professional Backend Engineering Experience, so I already had substantial technical foundations, before I started (November 2023).
 - Started my own DevOps journey (December 2023)
 - I will add resources I find useful as i go along
 - I am writing some articles and probably making some videos along the way, adding links as I make them
