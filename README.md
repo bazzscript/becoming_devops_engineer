@@ -9,7 +9,8 @@ PS:
 - Started my own DevOps journey (November 2023)
 - I will add resources I find useful as i go along
 - I am writing some articles and probably making some videos along the way, adding links as I make them
-- ⏳ Means I am currently doing this. ✅ Means I have completed this.
+- ⏳ Means I am currently doing this.
+- ✅ Means I have completed this.
 
 ## Motto
 
