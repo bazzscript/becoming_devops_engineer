@@ -34,6 +34,8 @@ GOOD LUCK TO US!
   - [Net Ninjs Go Lang Playlist](https://youtube.com/playlist?list=PL4cUxeGkcC9gC88BEo9czgyS72A3doDeM&feature=shared) ✅
   - [A Tour Of Go](https://go.dev/tour/welcome/1) ✅
   - [Learn Go With Test](https://quii.gitbook.io/learn-go-with-tests/) ⏳
+  - [Go for Devops.pdf](https://www.packtpub.com/product/go-for-devops/9781801818896)
+
 
 - Docker
 
