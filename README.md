@@ -36,7 +36,6 @@ GOOD LUCK TO US!
   - [Learn Go With Test](https://quii.gitbook.io/learn-go-with-tests/) ⏳
   - [Go for Devops.pdf](https://www.packtpub.com/product/go-for-devops/9781801818896)
 
-
 - Docker
 
 - Kubernetes
@@ -49,10 +48,16 @@ GOOD LUCK TO US!
 -
 - [Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/aws/)
 
-## Certifications
+## Certifications (Taking them According to the way they are listed)
 
-- [AWS Cloud Practioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+- [AWS Certified Cloud Practioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+- [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+
 - [Professional Cloud DevOps Engineer](https://cloud.google.com/learn/certification/cloud-devops-engineer)
-- [Certified Kubernetes Administrator](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
-- [Certified Kubernetes Application Developer](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/)
+
+- [AWS Certified DevOps Engineer - Professional](https://aws.amazon.com/certification/certified-devops-engineer-professional/)
+- [AWS Certified Advanced Networking - Specialty](https://aws.amazon.com/certification/certified-advanced-networking-specialty/)
+
 - [Kubernetes and Cloud Native Associate](https://training.linuxfoundation.org/certification/kubernetes-cloud-native-associate/)
+- [Certified Kubernetes Application Developer](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/)
+- [Certified Kubernetes Administrator](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
