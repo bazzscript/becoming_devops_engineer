@@ -32,7 +32,7 @@ GOOD LUCK TO US!
   
 - Go lang ⏳
   - [Net Ninjs Go Lang Playlist](https://youtube.com/playlist?list=PL4cUxeGkcC9gC88BEo9czgyS72A3doDeM&feature=shared) ✅
-  - [A Tour Of Go](https://go.dev/tour/welcome/1) ⏳
+  - [A Tour Of Go](https://go.dev/tour/welcome/1) ✅
   - [Learn Go With Test](https://quii.gitbook.io/learn-go-with-tests/) ⏳
 
 - Docker
